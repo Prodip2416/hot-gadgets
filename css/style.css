@@ -1,0 +1,90 @@
+.carouser-section, .smartphone-section, .laptop-section{
+    margin-bottom: 80px;
+}
+.carousel-item{
+    margin-top: 20px;
+}
+p{
+    color: gray;
+}
+.btn-buy-now{
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+}
+.bg-left{
+    position: left;
+    margin-top: -150px;
+    width: 134px;
+}
+.carousel-item p{
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+.carousel-item img{
+    margin-bottom: 30px;
+}
+.carousel-indicators li{
+    background-color: gray;
+    height: 8px;
+    width: 16px;
+    border: none;
+    border-radius: 15px;
+}
+.carousel-indicators .active{
+    background-image: linear-gradient(to left, #ffd019,#ffb429);
+    height: 8px;
+    width: 16px;
+    border: none;
+    border-radius: 15px;
+}
+.container h6{
+    color:goldenrod;
+}
+.smartphone-div{
+    margin-bottom: 30px;
+}
+.card img{
+    margin-top: 30px;
+}
+.card-div-margin-top{
+    margin-top: 20px;
+}
+.card{
+    border: none;
+    border-radius: 5px;
+    box-shadow: 2px 2px 20px lightgray;
+}
+.category-section p{
+    background-image: linear-gradient(to right, #ffc31f,#ff9c35);
+    height: 8px;
+    width: 80px;
+    border: none;
+    border-radius: 15px;
+    margin-top: 44px;
+    margin-left: -105px;
+}
+.category-div-first{
+    margin-bottom: 30px;
+}
+.first-category , .second-category, .third-category{
+    border: none;
+    box-shadow: 5px 5px 20px lightgray;
+    margin-bottom: 30px;
+    padding: 25px 40px;
+}
+.first-category{
+    border-radius: 5px 8px 5px 20px;
+}
+.second-category , .third-category{
+    border-radius: 8px 5px 20px 5px;
+}
+.category-box-img h5{
+    text-align: center;
+    margin-top: 30px;
+}
+footer{
+    text-align: center;
+}
